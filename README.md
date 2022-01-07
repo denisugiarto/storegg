@@ -1,2 +1,0 @@
-# storegg
-Store Voucher Game
